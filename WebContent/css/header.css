@@ -1,0 +1,11 @@
+#logo {
+	float: left;
+	height: 115px;
+	width: 1536px;
+	background-image: url("../img/logo.jpg");
+}
+
+#daohang {
+	clear: both;
+	height: 52px;
+}
